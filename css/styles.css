@@ -1,0 +1,26 @@
+#container{
+    border: 2px solid chartreuse;
+}
+
+.offre_print{
+    border: 2px solid red;
+}
+.offre_web{
+    border: 2px solid blue;
+}
+.offre_onepage{
+    border: 2px solid rgb(0, 0, 0);
+}
+
+ul li{
+    list-style: none;
+}
+
+button{
+    background: #3c7397;
+    color:#fff;
+    border: 2px solid #3c7397;
+    border-radius: 50px;
+    width: 100px;
+    height: 35px;
+}
